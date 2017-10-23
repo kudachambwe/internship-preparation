@@ -1,0 +1,10 @@
+
+a:active, a:hover {
+    outline: 0;
+    color: white !important;
+    background-color: orangered;
+}
+
+a.collapsible-header {
+    color: darkgray;
+}

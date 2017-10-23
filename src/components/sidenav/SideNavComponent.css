@@ -1,0 +1,13 @@
+a:active {
+    color: red;
+
+}
+
+.collapsible-header {
+    line-height: 2rem !important;
+}
+
+.col.s12.m8.l9.card-panel {
+    padding-left: 30px;
+    padding-right: 30px;
+}
